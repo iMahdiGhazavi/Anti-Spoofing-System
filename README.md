@@ -26,7 +26,7 @@ For each of the approaches a model was trained and then tested on the correspond
 - **Classification**: Trained model outputs a prediction, indicating whether the face is real or spoofed.
 
 ## Document and Files
-To view document click [here](). *This ducument is in Persian.*
+To view the project's document click [here](https://github.com/iMahdiGhazavi/Anti-Spoofing-System/blob/main/CV_Final_Project_Document.pdf). *This ducument is in Persian.*
 
 ## References
 - [CelebA-Spoof Dataset](https://github.com/ZhangYuanhan-AI/CelebA-Spoof)
