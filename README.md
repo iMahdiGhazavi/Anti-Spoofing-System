@@ -3,8 +3,8 @@ This Repository Contains the Implementation of my Final Project for the Course F
 
 ## Project Description
 The purpose of this project is to develop an anti-spoofing algorithm to detect the liveness of a face in a video, in which a frame of the video is taken and it is determined whether the image belongs to a live person or not. For example, the picture has makeup on the person or is a printed picture of him or maybe the picture is playing from another device or not. For this purpose, I was asked to use two approaches: 
-1- Using the old-fashioned ML by extracting features from the vidoe frames(features such as frequency, texture, person's liveliness signs, et cetera)
-2- Using Deep Learning-based approaches and architectures
+1. Using the old-fashioned ML by extracting features from the vidoe frames(features such as frequency, texture, person's liveliness signs, et cetera)
+2. Using Deep Learning-based approaches and architectures
 For each of the approaches a model was trained and then tested on the corresponding dataset.
 
 ## Used Datasets
